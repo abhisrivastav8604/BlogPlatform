@@ -1,8 +1,7 @@
-Hii I am Ashish Kumar..
+Hii I am Abhi Srivastava
 
 This is a simple blog website MERN Stack Project...
 
-Link of the website:- https://blog-pearl-kappa.vercel.app/
 
 # Features:-
 Signup Page with JWT auth...
